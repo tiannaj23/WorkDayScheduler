@@ -5,9 +5,10 @@
 $(function () {
   $('#currentDay').text(dayjs().format('dddd, MMMM D, YYYY'))
 
+  // loop time blocks
   for (let i = 9; i < 17 ; i++) {
 
-    var time = 'AM'
+    var time = 'AM';
     
     var rowEL = $('<div>');
     var hourEl = $('<div>');
