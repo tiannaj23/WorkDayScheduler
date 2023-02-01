@@ -20,3 +20,4 @@ To navigate the Work Day Scheduler website, you can scroll down and view the tim
 The following screenshot shows the deployed website and the link will take you to live deployed website.
 
 ![screen shot](./images/Mock-Up%20%20Large.jpeg)
+https://tiannaj23.github.io/WorkDayScheduler/
